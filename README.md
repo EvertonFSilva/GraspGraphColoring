@@ -70,3 +70,10 @@ ColoringSolution solution = grasp.run();
 solution.printColorAssignment();
 GraphIO.writeColoringSummary(solution, "saida/solucao.txt");
 ```
+
+## Colaboradores
+
+- 👩‍💻[@BrunaSoug](https://github.com/BrunaSoug)
+- 👨‍💻[@EvertonFSilva](https://github.com/EvertonFSilva)
+- 👨‍💻[@Messias](https://github.com/messias003)
+- 👨‍💻[@Maria](https://github.com/mariantoniafreitas)
